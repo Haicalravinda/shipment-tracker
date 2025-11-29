@@ -20,6 +20,8 @@
 
 PT JEJE HARAPAN TRANSINDO Shipment Tracker is a modern, responsive web application designed to streamline logistics operations. Built with Vue 3 Composition API and TailwindCSS, this application provides real-time shipment tracking, transporter assignment, and comprehensive shipment management capabilities.
 
+link demo website : https://shipment-tracker-plum.vercel.app/
+
 ### ✨ Key Highlights
 
 - **Real-time Tracking**: Monitor all shipments with live status updates
