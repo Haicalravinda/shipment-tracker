@@ -9,7 +9,7 @@
 
 **Modern Logistics Management System for PT JEJE HARAPAN TRANSINDO**
 
-[Live Demo](#) | [Report Bug](#) | [Request Feature](#)
+
 
 </div>
 
