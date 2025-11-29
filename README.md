@@ -135,8 +135,8 @@ git --version
 1. **Clone the repository**
 
 ```bash
-git clone https://github.com/your-username/pt-jeje-shipment-tracker.git
-cd pt-jeje-shipment-tracker
+git clone https://github.com/Haicalravinda/shipment-tracker.git
+cd shipment-tracker
 ```
 
 2. **Install dependencies**
